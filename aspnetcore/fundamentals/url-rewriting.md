@@ -21,7 +21,7 @@ ms.lasthandoff: 01/23/2018
 
 [檢視或下載範例程式碼](https://github.com/aspnet/Docs/tree/master/aspnetcore/fundamentals/url-rewriting/samples/) \(英文\) ([如何下載](xref:tutorials/index#how-to-download-a-sample))
 
-URL 重寫是指修改的要求 Url 會根據一或多個預先定義的規則。 URL 重寫會建立資源位置和地址之間的抽象概念，讓不緊密連結的位置和地址。 有幾種的情況很重要 URL 重寫：
+URL 重寫是指修改的要求 Url 會根據一或多個預先定義的規則。 URL 重寫會建立資源位置和地址之間的抽象概念，讓位置和地址不緊密的連結。 有幾種的情況很重要 URL 重寫：
 * 移動或取代伺服器資源暫時或永久地維持穩定的定位器，針對這些資源
 * 分割的要求處理跨不同的應用程式或跨區域的一個應用程式
 * 移除、 加入或重新組織的連入要求的 URL 區段
